@@ -38,9 +38,13 @@ With data aggregation formulas I could deliver the following information:
 <img src="images/1671480085486.png?raw=true"/>
 
 How many customers were there? (still for campaign 6)(=SUBTOTAL(2,Main!A2:A2205) 
+
 How old is the oldest customer? (=MAX(Main!Z2:Z2205)
+
 What is the average amount spent by each customer in this segment? (=AVERAGE(Main[MntTotal])
+
 What's the total amount spent by customers? (=SUM(Main!C2:C2205)
+
 Who is the most recently acquired customer? (=MIN(Main[Customer_Days]))
 
 Next, I added a new column named PCTIncome that represents the percentage of customers income that was spent with this company:
