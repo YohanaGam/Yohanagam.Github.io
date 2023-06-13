@@ -76,7 +76,7 @@ I added a column with Age Group using the aggregation formula below, to separate
 
 =IF(AND(Z5 < 36, Z5>23), "24-35",IF(AND(Z5 < 51, Z5>35), "26-50",IF(AND(Z5 < 66, Z5>50), "51-65",IF(Z5>65, "66+", "?"))))
 
-<img src="images/1671480424660.png?raw=true"/>
+<img src="images/1671480577769.png?raw=true"/>
 
 Since the age group between 24-35 was the one that spent less, maybe we could think how to increase the spend for the younger audience.
 
@@ -92,7 +92,8 @@ The R-squared value is a measure of well we could "predict" how much a customer 
 
 Which means that the marketing team, try to target higher-income customers as they tend to spend more with us.
 
-<img src="images/1671480577769.png?raw=true"/>
+<img src="images/1671480424660.png?raw=true"/>
+
 
 Again, we can spot what I probably think is Customer 21 and another fella as both outliers.
 
