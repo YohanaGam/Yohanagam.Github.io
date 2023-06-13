@@ -12,10 +12,12 @@ Data is really interesting and I enjoy working with the several aspects of it.
 
 ### 2. The Data.
 
-<img src="images/1671479605588.png?raw=true"/>This project was modified from an iFood job interview case study . the Brazilian equivalent of DoorDash.
+This project was modified from an iFood job interview case study . the Brazilian equivalent of DoorDash.
 The data is 98% real, but slightly modified for educational purposes. 
 
-I am from Brazil and I believe I can read some trends, dates and customer behaviors, so keep in mind that we actually are analyzing Ifood from Brazil.<img src="images/1671479605588.png?raw=true"/>
+<img src="images/1671479605588.png?raw=true"/>
+
+I am from Brazil and I believe I can read some trends, dates and customer behaviors, so keep in mind that we actually are analyzing Ifood from Brazil.
 
 
 <img src="images/1671479674361.jpg?raw=true"/>
