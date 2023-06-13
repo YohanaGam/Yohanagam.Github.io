@@ -10,7 +10,7 @@ Investigating and building a dashboard is not enough, it’s necessary to know h
 It’s important to understand from where the Data comes from.
 Data is really interesting and I enjoy working with the several aspects of it.
 
-### 2. The Data.
+### 2. The Data
 
 This project was modified from an iFood job interview case study . the Brazilian equivalent of DoorDash.
 The data is 98% real, but slightly modified for educational purposes. 
@@ -22,7 +22,7 @@ I am from Brazil and I believe I can read some trends, dates and customer behavi
 
 <img src="images/1671479674361.jpg?raw=true"/>
 
-### 3. Analyses.
+### 3. Analyses
 
 Once the data was all cleaned up the objective was to understand the data and summarize it in to answer some questions from my “Marketing Manager”.
 I started adding a new column to give a unique ID for each entry. Then analyzing campaign number 6 using filtered rows we can see by the graph below that 333 customers bought in campaign 6, but the 2nd campaign was a fiasco, with only 30 customers.
@@ -60,6 +60,7 @@ Assuming is from a secure source, “our database”, we can see it is a suspici
 <img src="1671480323824.gif?raw=true"/>
 
 I added a column with Age Group using the aggregation formula below, to separate in more specific groups the clientele.
+
 =IF(AND(Z5 < 36, Z5>23), "24-35",IF(AND(Z5 < 51, Z5>35), "26-50",IF(AND(Z5 < 66, Z5>50), "51-65",IF(Z5>65, "66+", "?"))))
 
 <img src="1671480424660.png?raw=true"/>
@@ -100,4 +101,41 @@ With the visual below we have an idea of marital status of people that bought wi
 
 At this point I found out that our fella 21 is married and did not buy in any campaign.
 A total of 1601 customers did not buy from campaigns, which means 73% of total customers.
+
+### 5. My thoughts on customer 21?
+
+Let's recapitulate:
+No alt text provided for this image
+$1725 spend only in meat products when it's income is $2447.
+28 purchases made trough the catalogue, and 15 made with discount. 1 kid at home and married.
+
+<img src="1671484565591.jpg?raw=true"/>
+
+Possibilities:
+
+1. Cloned credit card.
+
+Another person stole the credit card information from our client and made the purchases. In this case, is it a intern security issue in our system? or is is a fake customer with a stolen credit card?
+21 is lying:
+
+2. Customer 21 is a rich individual that is used to cheat tax declarations. So, when subscribing to our services he/she puts a lower income exactly the same way he/she does it when filling the taxes form.
+Probably the person is making more money than declared and so it has the means to spent a lot more. But from where it comes the money? Well, criminals also need to eat.🍕
+
+3. Client 21 is a person that buys for a company.
+
+So, in his/her records there are personal information, but in fact the purchase is to a 3rd party, I assume a company or boss. In that case, the person benefits receiving credit points, or special discounts! If the boss or company allows, it's just fine. We will never know.
+
+### 5. Conclusion
+
+We know for example that married customers at age group 51-56 were the populations that spent more during the campaigns. Should we focus on retaining those clients or use another approach to reach the other age groups?
+Now it's time to plan further for the next case.
+With this project I would like to show that I taking seriously the exercise in read and interpret data. I also find fascinating to find anomalies and just make possible assumptions so we can dive more into the investigation.
+My final Dashboard is the one below, with tons of possibilities to interpret Data, thanks to the interactive slicers.
+Let me know what you think about Customer 21, do you have a new assumption?
+or
+What would you do for the next campaign?
+
+<img src="1671485411500.png?raw=true"/>
+
+
 
