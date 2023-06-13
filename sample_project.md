@@ -4,13 +4,13 @@
 I am playing a role as the #data Analyst that will summarize the information, so can be more easily understandable.
 Overall, the company wants to improve it's marketing & wants to see who has purchased following a marketing campaign.
 
-### 1. I learned that:
+### I learned that:
 
 Investigating and building a dashboard is not enough, it’s necessary to know how to explain the data.
 It’s important to understand from where the Data comes from.
 Data is really interesting and I enjoy working with the several aspects of it.
 
-### 2. The Data
+###  The Data
 
 This project was modified from an iFood job interview case study . the Brazilian equivalent of DoorDash.
 The data is 98% real, but slightly modified for educational purposes. 
@@ -22,7 +22,7 @@ I am from Brazil and I believe I can read some trends, dates and customer behavi
 
 <img src="images/1671479674361.jpg?raw=true"/>
 
-### 3. Analyses
+###  Analyses
 
 Once the data was all cleaned up the objective was to understand the data and summarize it in to answer some questions from my “Marketing Manager”.
 I started adding a new column to give a unique ID for each entry. Then analyzing campaign number 6 using filtered rows we can see by the graph below that 333 customers bought in campaign 6, but the 2nd campaign was a fiasco, with only 30 customers.
@@ -57,39 +57,40 @@ So, I went to review the data to see if the cleaning and all the process of prep
 
 Assuming is from a secure source, “our database”, we can see it is a suspicious behavior. That is the first red flag about this particular client.👀
 
-<img src="1671480323824.gif?raw=true"/>
+<img src="images/1671480323824.gif?raw=true"/>
 
 I added a column with Age Group using the aggregation formula below, to separate in more specific groups the clientele.
 
 =IF(AND(Z5 < 36, Z5>23), "24-35",IF(AND(Z5 < 51, Z5>35), "26-50",IF(AND(Z5 < 66, Z5>50), "51-65",IF(Z5>65, "66+", "?"))))
 
-<img src="1671480424660.png?raw=true"/>
+<img src="images/1671480424660.png?raw=true"/>
 
 Since the age group between 24-35 was the one that spent less, maybe we could think how to increase the spend for the younger audience.
 By filtering, I found out that customer 21 is 41 years old.
 
-### 4. Scatter Plot.
+###  Scatter Plot.
 
 With the scatter plot visual we can see amount spent vs Income.
 No surprise here, we can see a general trend (dotted line) that more someone makes, the more they spend at the store
 The R-squared value is a measure of well we could "predict" how much a customer would spend, given we know their income.
 Which means that the marketing team, try to target higher-income customers as they tend to spend more with us.
 
-<img src="1671480577769.png?raw=true"/>
+<img src="images/1671480577769.png?raw=true"/>
 
 Again, we can spot what I probably think is Customer 21 and another fella as both outliers.
 One has a very high income but doesn't spend much with the store. The other, has a low income, but spends quite a bit with the store.
 It would be interesting to dive deeper on these two customers and see what's going on. In a real case scenario, we should be asking: Do we have the correct income for them? Do we have the correct spent? Is the Data correct?
 
-### 5. Histogram.
+###  Histogram.
 
 The Histogram visual shows a right skewed distribution. It explains that with more frequency the amount spent is between $4 -$419.
 
-<img src="1671483068455.png?raw=true"/>
+<img src="images/1671483068455.png?raw=true"/>
 
 With the graph below we can view better how many customer joined the store by month:
 
-<img src="1671483132209.png?raw=true"/>
+<img src="images/1671483132209.png?raw=true"/>
+
 
 January is a success and I believe it's because of the new year. In Brazil people travel a lot in this vacation and summer period. Also, in December they received the mandated bonus from previous year and are willing to pumper their selves a little more.
 Usually February and March are the months of Brazilian carnival, people travel, celebrate and party more.
@@ -97,7 +98,7 @@ August is a huge success between the ages of 51-56 and I think it is because it 
 Here I can see that mysterious 21 joined in May and spent $1725 only in meat Products. May is the month of mother's day in Brazil.
 With the visual below we have an idea of marital status of people that bought within all campaigns.
 
-<img src="1671484277886.png?raw=true"/>
+<img src="images/1671484277886.png?raw=true"/>
 
 At this point I found out that our fella 21 is married and did not buy in any campaign.
 A total of 1601 customers did not buy from campaigns, which means 73% of total customers.
@@ -109,12 +110,11 @@ No alt text provided for this image
 $1725 spend only in meat products when it's income is $2447.
 28 purchases made trough the catalogue, and 15 made with discount. 1 kid at home and married.
 
-<img src="1671484565591.jpg?raw=true"/>
+<img src="images/1671484565591.jpg?raw=true"/>
 
 Possibilities:
 
 1. Cloned credit card.
-
 Another person stole the credit card information from our client and made the purchases. In this case, is it a intern security issue in our system? or is is a fake customer with a stolen credit card?
 21 is lying:
 
@@ -122,10 +122,9 @@ Another person stole the credit card information from our client and made the pu
 Probably the person is making more money than declared and so it has the means to spent a lot more. But from where it comes the money? Well, criminals also need to eat.🍕
 
 3. Client 21 is a person that buys for a company.
-
 So, in his/her records there are personal information, but in fact the purchase is to a 3rd party, I assume a company or boss. In that case, the person benefits receiving credit points, or special discounts! If the boss or company allows, it's just fine. We will never know.
 
-### 5. Conclusion
+###  Conclusion
 
 We know for example that married customers at age group 51-56 were the populations that spent more during the campaigns. Should we focus on retaining those clients or use another approach to reach the other age groups?
 Now it's time to plan further for the next case.
@@ -135,7 +134,7 @@ Let me know what you think about Customer 21, do you have a new assumption?
 or
 What would you do for the next campaign?
 
-<img src="1671485411500.png?raw=true"/>
+<img src="images/1671485411500.png?raw=true"/>
 
 
 
