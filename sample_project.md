@@ -12,7 +12,7 @@ Data is really interesting and I enjoy working with the several aspects of it.
 
 ###  The Data
 
-This project was modified from an iFood job interview case study . the Brazilian equivalent of DoorDash.
+This project was modified from an iFood job interview case study, the Brazilian equivalent of DoorDash.
 The data is 98% real, but slightly modified for educational purposes. 
 
 <img src="images/1671479605588.png?raw=true"/>
