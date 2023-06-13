@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [sample_project.md](/bank)
 <img src="images/1671479534257.gif?raw=true"/>
 
 
