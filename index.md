@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [sample_project.md](sample_project.md)
+#### [Excel_project.md](sample_project.md)
 <img src="images/1671479534257.gif?raw=true"/>
 
 
