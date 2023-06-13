@@ -8,11 +8,11 @@ Overall, the company wants to improve it's marketing & wants to see who has purc
 
 ### I learned that:
 
-Investigating and building a dashboard is not enough, it’s necessary to know how to explain the data.
+- Investigating and building a dashboard is not enough, it’s necessary to know how to explain the data.
 
-It’s important to understand from where the Data comes from.
+- It’s important to understand from where the Data comes from.
 
-Data is really interesting and I enjoy working with the several aspects of it.
+- Data is really interesting and I enjoy working with the several aspects of it.
 
 ###  The Data
 
