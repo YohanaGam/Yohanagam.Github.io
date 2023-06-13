@@ -82,15 +82,13 @@ Since the age group between 24-35 was the one that spent less, maybe we could th
 
 By filtering, I found out that customer 21 is 41 years old.
 
-###  Scatter Plot.
+###  Scatter Plot
 
 With the scatter plot visual we can see amount spent vs Income.
 
 No surprise here, we can see a general trend (dotted line) that more someone makes, the more they spend at the store.
 
-The R-squared value is a measure of well we could "predict" how much a customer would spend, given we know their income.
-
-Which means that the marketing team, try to target higher-income customers as they tend to spend more with us.
+The R-squared value is a measure of well we could "predict" how much a customer would spend, given we know their income.Which means that the marketing team, try to target higher-income customers as they tend to spend more with us.
 
 <img src="images/1671480424660.png?raw=true"/>
 
