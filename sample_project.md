@@ -99,11 +99,11 @@ One has a very high income but doesn't spend much with the store. The other, has
 
 It would be interesting to dive deeper on these two customers and see what's going on. In a real case scenario, we should be asking: Do we have the correct income for them? Do we have the correct spent? Is the Data correct?
 
-###  Histogram.
+###  Histogram
 
 The Histogram visual shows a right skewed distribution. It explains that with more frequency the amount spent is between $4 -$419.
 
-<img src="images/1671480424660.png?raw=true"/>
+<img src="images/1671483068455.png?raw=true"/>
 
 With the graph below we can view better how many customer joined the store by month:
 
