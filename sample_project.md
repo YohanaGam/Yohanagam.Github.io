@@ -85,7 +85,7 @@ It would be interesting to dive deeper on these two customers and see what's goi
 
 The Histogram visual shows a right skewed distribution. It explains that with more frequency the amount spent is between $4 -$419.
 
-<img src="images/1671483068455.png?raw=true"/>
+<img src="images/1671480424660.png?raw=true"/>
 
 With the graph below we can view better how many customer joined the store by month:
 
@@ -93,9 +93,17 @@ With the graph below we can view better how many customer joined the store by mo
 
 
 January is a success and I believe it's because of the new year. In Brazil people travel a lot in this vacation and summer period. Also, in December they received the mandated bonus from previous year and are willing to pumper their selves a little more.
+
+
 Usually February and March are the months of Brazilian carnival, people travel, celebrate and party more.
+
+
 August is a huge success between the ages of 51-56 and I think it is because it is the same month of father's day. Meat would be a huge success for BBQ.
+
+
 Here I can see that mysterious 21 joined in May and spent $1725 only in meat Products. May is the month of mother's day in Brazil.
+
+
 With the visual below we have an idea of marital status of people that bought within all campaigns.
 
 <img src="images/1671484277886.png?raw=true"/>
@@ -103,10 +111,10 @@ With the visual below we have an idea of marital status of people that bought wi
 At this point I found out that our fella 21 is married and did not buy in any campaign.
 A total of 1601 customers did not buy from campaigns, which means 73% of total customers.
 
-### 5. My thoughts on customer 21?
+###  My thoughts on customer 21?
 
 Let's recapitulate:
-No alt text provided for this image
+
 $1725 spend only in meat products when it's income is $2447.
 28 purchases made trough the catalogue, and 15 made with discount. 1 kid at home and married.
 
@@ -126,10 +134,20 @@ So, in his/her records there are personal information, but in fact the purchase 
 
 ###  Conclusion
 
-We know for example that married customers at age group 51-56 were the populations that spent more during the campaigns. Should we focus on retaining those clients or use another approach to reach the other age groups?
+We know for example that married customers at age group 51-56 were the populations that spent more during the campaigns.
+
+Should we focus on retaining those clients or use another approach to reach the other age groups?
+
+
 Now it's time to plan further for the next case.
+
+
 With this project I would like to show that I taking seriously the exercise in read and interpret data. I also find fascinating to find anomalies and just make possible assumptions so we can dive more into the investigation.
+
+
 My final Dashboard is the one below, with tons of possibilities to interpret Data, thanks to the interactive slicers.
+
+
 Let me know what you think about Customer 21, do you have a new assumption?
 or
 What would you do for the next campaign?
