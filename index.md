@@ -11,7 +11,7 @@
 ---
 #### [Tableau Project](TableauProject)
 <img src="images/1st Image_State Map.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I explored some Tableu features to build a dashboard.  
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
