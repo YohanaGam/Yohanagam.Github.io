@@ -26,7 +26,11 @@ I am from Brazil and I believe I can read some trends, dates and customer behavi
 
 Once the data was all cleaned up the objective was to understand the data and summarize it in to answer some questions from my “Marketing Manager”.
 I started adding a new column to give a unique ID for each entry. Then analyzing campaign number 6 using filtered rows we can see by the graph below that 333 customers bought in campaign 6, but the 2nd campaign was a fiasco, with only 30 customers.
+
+
 A total of 1601 customers did not buy from campaigns, which means 73% of total customers.
+
+
 Did we learn from our mistakes and got better, or did we use different approaches in each campaign?
 
 
