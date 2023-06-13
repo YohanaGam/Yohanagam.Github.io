@@ -1,19 +1,21 @@
-## This can be a template for an internal prject
+## DoorDash Marketing Analyses and the Case of a Suspicious Customer.
 
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
+**Introduction:** I am doing this project to understand better what kind of #data we can pull out from a Marketing campaign in a Food delivery business.
+I am playing a role as the #data Analyst that will summarize the information, so can be more easily understandable.
+Overall, the company wants to improve it's marketing & wants to see who has purchased following a marketing campaign.
 
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
+### 1. I learned that:
 
-### 1. You can have sections and text.
-
-Just like this. And you can even add internal coding blocks
+Investigating and building a dashboard is not enough, it’s necessary to know how to explain the data.
+It’s important to understand from where the Data comes from.
+Data is really interesting and I enjoy working with the several aspects of it.
 
 ```python
 print('this is the python code I used to solve this problem')
 ```
 
-### 2. You can add any images you'd like. 
+### 2. The Data.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/1671479605588.png?raw=true"/>
 
 
