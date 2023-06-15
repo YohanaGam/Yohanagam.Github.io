@@ -11,15 +11,16 @@ This data is REAL data taken from Massachusetts Department of Education Website 
 
 ###  Analyses
 
-Once the data was all cleaned up the objective was to understand the data and summarize it in to answer some questions from my “Marketing Manager”.
+Once the data was connect to Tableau. I gathered all the requirements needed to build some custom graphs to vizualise information better.
 
-I started adding a new column to give a unique ID for each entry. Then analyzing campaign number 6 using filtered rows we can see by the graph below that 333 customers bought in campaign 6, but the 2nd campaign was a fiasco, with only 30 customers.
+- To undertand wich schools needs some extra attention I looked up to know what schools are the bottom 10 high schools in terms of graduation %.
+
+emphasize the numerical rates I added labels and some color formatting
 
 
-A total of 1601 customers did not buy from campaigns, which means 73% of total customers.
 
 
-Did we learn from our mistakes and got better, or did we use different approaches in each campaign?
+
 
 
 <img src="images/1671479947875.png?raw=true"/>
