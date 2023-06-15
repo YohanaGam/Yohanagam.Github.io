@@ -7,7 +7,7 @@
 This data is REAL data taken from Massachusetts Department of Education Website from the year 2017. It is actually a combination of multiple reports and it can be found here. https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data
 
 
-<img src="[images/Students class GIF.gif?raw=true"/>
+<img src="images/Students class GIF.gif"/>
 
 ###  Analyses
 
