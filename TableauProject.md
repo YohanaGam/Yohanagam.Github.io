@@ -1,12 +1,12 @@
 ## The Education Project.
 
-**Introduction:** I am doing this project as part of my continues learning in data analytics tools. I am playing a role as a recently hired by the State of Massachusetts to analyze their education data. The school superintendent needs some answer to do dicisions based in realiable data. Thus, an investigation to see where improvements can be done so students can get higher grades.
+**Introduction:** I am doing this project as part of my continues learning in data analytics tools. I am playing a role as a recently hired by the State of Massachusetts to analyze their educational data. The school superintendent needs some answers to make dicisions based in realiable information. Thus, an investigation to see where improvements can be done so students can get higher grades.
 
 ###  The Data
 
 This data is REAL data taken from Massachusetts Department of Education Website from the year 2017. It is actually a combination of multiple reports and it can be found here.
 
-<img src="images/1671479605588.png?raw=true"/>
+<img src=(https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)>
 
 I am from Brazil and I believe I can read some trends, dates and customer behaviors, so keep in mind that we actually are analyzing Ifood from Brazil.
 
