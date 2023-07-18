@@ -37,6 +37,36 @@ So, in the first place the total number of schools and total number of students 
 
    A bar chart with the bottom 10 high schools in terms of graduation% is the best option to illustrate the rank. So, the % Graduated metric was crossed with the school’s names:
 
+<img src="images/LowGrad%_1.png?raw=true"/>
+
+To emphasize the numerical rates a bit more so they stand out, it was added numerical labels and to have a better view of the differences in graduation the bar colors were customized to show the worst schools in red.
+
+<img src="images/LowGrad%_2.png?raw=true"/>
+
+Since it was discovered what schools are underperorming in graduation rates, the next suggested step would be to explore more and ask why those particularly schools are presenting these numbers. Some factors to consider:
+
+- Is it the personal situation or school’s poor administration that keep students get to graduation? 
+- Is there a survey from the teachers that could give a rinch in how they are feeling about the work environment?
+- Do the teachers feel motivated to really help students? Do they have the basics resources for that?
+- Do students and teachers feel safe in the school environment?
+- Is there a annual psychological assessment to know if the students have some sort of disability and if so, are they being adressed?
+- What are the specilaizations of the teachers, or methods that are being applied?
+- Are there any psychological relevant constraints like racism, bullying, criminality, family, misoginy that are affecting students?
+
+It would be very important to cross data with census data, police records, drug cases rates, air quality and/or environmental rates and so on. There are several ways to find out the root cause and even better address an effective solution. However, for now, this project is focusing in one data source.
+
+**2. How does class size affect college admission? Or How college attendance could be increased?**
+
+
+_My personal though: It was shown that almost 50% of students are not even graduating from high school, but the superintended wants to know about college admission? Maybe we could also cross political data as well, to see why the schooll administration intentions are more in college numbers than addressing the problem of the students that are not even graduating. Politics is also important to know when data analysing._
+
+Since the graduation rate is lower investing in building more schools with the aim of lowering the average class size to hopefully increase the percentage attending college is the generic ideia that was brain stomerd from the college board. 
+
+Furthermore, to test the hipothesis  the metric “Average Class Size” and “% Attending College” were crossed in a sclatter plot:
+
+
+
+
 
 
 
