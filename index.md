@@ -4,13 +4,13 @@
 
 ### Learn About My Projects
 
-#### [Excel_project](sample_project.md)
+#### [Excel_project](Excel_Project)
 <img src="images/1671479534257.gif?raw=true"/>
 
 
 ---
-#### [Tableau Project](TableauProject)
-<img src="images/1st Image_State Map.png?raw=true"/>
+#### [Tableau Project](TableauProject.md)
+<img src="images/Students class GIF.gif?raw=true"/>
 For this project, I explored some Tableu features to build a dashboard.  
 
 ---
