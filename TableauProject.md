@@ -31,8 +31,9 @@ So, in the first place the total number of schools and total number of students 
 - Number of Schools = 1,861
 - Number of Students = 943,748
 - Wich means an average of  507,118 students per school
+  
 
-1. What schools need extra attention? Thus, has lowest graduation rates?
+**1. What schools need extra attention? Thus, has lowest graduation rates?**
 
    A bar chart with the bottom 10 high schools in terms of graduation% is the best option to illustrate the rank. So, the % Graduated metric was crossed with the school’s names:
 
