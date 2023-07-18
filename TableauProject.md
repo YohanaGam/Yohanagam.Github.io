@@ -1,10 +1,22 @@
 ## The Education Project.
 
-**Introduction:** I am doing this project as part of my continues learning in data analytics tools. I am playing a role as a recently hired by the State of Massachusetts to analyze their educational data. The school superintendent needs some answers to make dicisions based in realiable information. Thus, an investigation to see where improvements can be done so students can get higher grades.
+**Introduction:** This project is part of the Data Analytics Accelerator program that I am taking to improve and practice my Data Skills. 
 
-###  The Data
+Therefore, I am acting as recently hired Data Analyst with the purpose to analyze the education data from the State of Massachusetts. The Department of Education Superintendent is looking for the following:
 
-This data is REAL data taken from Massachusetts Department of Education Website from the year 2017. It is actually a combination of multiple reports and it can be found here. https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data
+- A report to show the school board the state of the school system 
+
+- How does class size affect college admission?
+
+- What are the top math schools in the state?
+
+- What schools are struggling the most?
+
+
+
+###  The data set
+
+The data set is REAL data taken from Massachusetts Department of Education Website from the year 2017. It is actually a combination of multiple reports with information about  Enrollment by Grade, Enrollment by Selected Population, Enrollment by Race/Gender and etc. The reports can be found here.
 
 
 <img src="GIF/https://github.com/YohanaGam/Yohanagam.Github.io/blob/master/images/Students%20class%20GIF.gif"/>
