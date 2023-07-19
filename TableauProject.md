@@ -80,9 +80,9 @@ However, for now, this project is focusing in one data source.
 **2. How does class size affect college admission? Or How college attendance could be increased?**
 
 
-__My personal though: It was shown that almost 50% of students are not even graduating from high school, but the superintended wants to know about college admission? 
+_My personal though: It was shown that almost 50% of students are not even graduating from high school, but the superintended wants to know about college admission?
+Maybe we could also cross political data as well, to see why the schooll administration intentions are more in college numbers than addressing the problem of the students that are not even graduating._
 
-Maybe we could also cross political data as well, to see why the schooll administration intentions are more in college numbers than addressing the problem of the students that are not even graduating.__
 
 
 Considering that the graduation rate is lower, investing in building more schools with the aim of lowering the average class size to hopefully increase the percentage attending college is the generic assumption that was thought by the college board. 
