@@ -1,6 +1,7 @@
 ## The Education Project.
 
 **Introduction:** 
+-
 
 This project is part of the Data Analytics Accelerator program that I am taking to improve and practice my Data Skills. 
 
@@ -48,7 +49,7 @@ So, in the first place the total number of schools and total number of students 
 
 
    A bar chart with the bottom 10 high schools in terms of graduation % is the best option to illustrate the rank. So, the "% Graduated" metric was crossed with the school’s names:
--
+
 
 <img src="images/LowGrad_1.jpg?raw=true"/> 
 
