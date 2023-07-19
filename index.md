@@ -1,10 +1,8 @@
 # Welcome to My Portfolio
-
 ---
-
 ### Data Projects
 
-#### [Tableau Project](TableauProject.md)
+#### [Increasing College attendance](TableauProject.md)
 <img src="images/Students class GIF.gif?raw=true"/>
 
 In this project Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
