@@ -67,6 +67,11 @@ Since the graduation rate is lower investing in building more schools with the a
 Furthermore, to test the hipothesis  the metric “Average Class Size” and “% Attending College” were crossed in a sclatter plot:
 
 
+<img src="images/CollegevsClassSize_2.jpg?raw=true"/>
+
+
+
+
 
 
 
