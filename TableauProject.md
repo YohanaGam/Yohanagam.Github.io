@@ -3,7 +3,7 @@
 **Introduction:** 
 
 
-This project is part of the Data Analytics Accelerator program that I am taking to improve and practice my Data Skills. 
+This is one more project that is part of the Data Analytics Accelerator program that I am taking to improve and practice my Data Skills. 
 
 
 Therefore, I am acting as recently hired Data Analyst with the purpose to analyze the education data from the State of Massachusetts. The Department of Education Superintendent is looking for the following:
