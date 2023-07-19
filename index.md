@@ -2,19 +2,20 @@
 
 ---
 
-### Learn About My Projects
+### Data Projects
 
 #### [Tableau Project](TableauProject.md)
 <img src="images/Students class GIF.gif?raw=true"/>
-For this project, I explored some Tableu features to build a dashboard. 
 
-
+In this project Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
 ---
  
-
 #### [Excel_project](Excel_Project.md)
 <img src="images/1671479534257.gif?raw=true"/>
+
+An analyses entirely made in Excel about 6 marketing campaigns from the DoorDash delivery company.
 ---
+
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
