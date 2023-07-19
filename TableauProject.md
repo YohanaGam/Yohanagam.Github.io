@@ -67,19 +67,52 @@ Since the graduation rate is lower investing in building more schools with the a
 Furthermore, to test the hipothesis  the metric “Average Class Size” and “% Attending College” were crossed in a sclatter plot:
 
 
+<img src="images/CollegevsClassSize_1.jpg?raw=true"/>
+
+
+It looks like the AVG class size does not significantly impact in College admission. Common sense would believe that the less students better grades, but it is not quite what the data shows, the orange square shows the opposite. 
+
+For example a class with 13 students (pink arrow) has 50% of college admission rate, and a class with 19 students (orange arrow) has 90% of college admission. 13 to 19 is not a very relevant range to consider, wich means does not tell much. So, there is no significantly correlation between the two metrics.
+
+Next step was to add a 3rd metric: "% of Economically Disadvantaged" but in color formatt as shown below: 
+
 <img src="images/CollegevsClassSize_2.jpg?raw=true"/>
 
 
+The color scale shows that the darker dots are the most  Economically Disadvantaged, the lighter dots are the opposite. 
+
+So it’s possible to see that the majority of the lighter dots are above of the line 80% Attendance College, wich means that the students that has a steady financial situation are more keen to go to college.
+The solution would not be build more schools, but again analyze deeper and to understand the impacts of lower income on students. Factors to consider:
 
 
+- Students need to work while studying to help their families?
+- Students has the resources to learn and progress in order to have better grades?
+- If student have good grades do they have the intention to apply for college? If not why? Do they have the means to pay for college? Are they motivated enough to do so?
+- What are the immediately impacts on going to college for a lower income student? Or are there only after graduation benefits?
+
+**2. What are the top math schools in the state?**
+
+The superintendent believes that 4th grade math is key to a student's feature & would like to focus on improving the state's MCAS 4thGrade Math P value (P stands for passing). 
+They want to know which districts are above the desired threshold of 50% and would like to collect the names of these districts to invite some of these teachers to train the rest of the state on how they improve math scores. 
 
 
+In order to do that the metric "% MCAS 4thGrade Math P" was analyzed with the metric "District Name". 
 
 
+<img src="images/4thGradeMath.jpg?raw=true"/>
 
 
+Since not all districts have elementary school MCAS scores, a filter was added to only allow non-null MCAS 4thGrade Math P scores. To know the top scholls the data was sorted by the math percentage descending order and the reference line and shaded colors emphasizes the 50% threshold.  In blue are the scholls with above 50% passing score and grey are the scholls needing some work.
+
+**Conclusion**
+
+This is a relative small project that answered 4 questions but it can trigger a lot of more questions: 
+How does class size affect college admission?
+What are the top math schools in the state?
+What schools are struggling the most?
 
 
+<img src="images/Final Dashboard.jpg?raw=true"/>
 
 
 
