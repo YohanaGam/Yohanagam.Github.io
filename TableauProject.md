@@ -37,6 +37,7 @@ So, in the first place the total number of schools and total number of students 
 
    A bar chart with the bottom 10 high schools in terms of graduation% is the best option to illustrate the rank. So, the % Graduated metric was crossed with the school’s names:
 
+images/LowGrad%_1.png
 <img src="images/LowGrad%_1.png?raw=true"/> 
 
 
