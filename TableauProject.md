@@ -18,13 +18,6 @@ Therefore, I am acting as recently hired Data Analyst with the purpose to analyz
 
 
 
-
-
-
-
- 
-
-
 ###  The data set
 
 
@@ -76,7 +69,7 @@ Since it was discovered what schools are underperorming in graduation rates, the
 - Is there a annual psychological assessment to know if the students have some sort of disability and if so, are they being adressed?
 - What are the specilaizations of the teachers, or methods that are being applied?
 - Are there any psychological relevant constraints like racism, bullying, criminality, family, misoginy that are affecting students?
-- 
+
 
 It would be very important to cross data with census data, police records, drug cases rates, air quality and/or environmental rates and so on. There are several ways to find out the root cause and even better address an effective solution. However, for now, this project is focusing in one data source.
 
