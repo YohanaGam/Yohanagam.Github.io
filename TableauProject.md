@@ -123,7 +123,7 @@ Aspects to consider:
 - What are the immediately impacts on going to college for a lower income student? Or are there only after graduation economic long term benefits?
   
 
-**2. What are the top math schools in the state?**
+**3. What are the top math schools in the state?**
 
 
 The superintendent believes that 4th grade math is key to a student's feature & would like to focus on improving the state's MCAS 4thGrade Math P value (P stands for passing). 
