@@ -15,7 +15,14 @@ Therefore, I am acting as recently hired Data Analyst with the purpose to analyz
 - What are the top math schools in the state?
 
 - What schools are struggling the most?
-- 
+
+
+
+
+
+
+
+ 
 
 
 ###  The data set
