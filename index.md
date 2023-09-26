@@ -6,8 +6,6 @@
 
 
 
-
-
 #### [SQL Banking Project](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
 
 <img src="images/The-World-Bank.jpg?raw=true"/>(https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
