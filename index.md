@@ -1,23 +1,26 @@
 # Welcome to My Portfolio
 ---
 ### Data Projects
----
-#### [SQL Financial Project](SQL.md)
-Tunisia needs more money.
+
+#### [SQL Banking Project](SQLBanking.md)
+
 <img src="images/The-World-Bank.jpg?raw=true"/>
 
-In this project Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
+
+
+ 
+
 https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/
 ---
 #### [Increasing College attendance](TableauProject.md)
 <img src="images/Students class GIF.gif?raw=true"/>
 
-In this project Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
+For this project Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
 ---
  
-#### [Excel_project](Excel_Project.md)
+#### [Excel_project](Excel_Project.md)(https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
 <img src="images/1671479534257.gif?raw=true"/>
 
-An analyses entirely made in Excel about 6 marketing campaigns from the DoorDash delivery company.
+An analysis of 6 marketing campaigns from the DoorDash delivery company.
 ---
 
