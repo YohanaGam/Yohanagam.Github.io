@@ -17,7 +17,7 @@ In this case study I am using MySQL to explore 2 data datasets that represent da
  
 #### [💵 The Finance Project (SQL)](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
 
-The Finance Project explore the data to find out the loan situation of countries but most focused on Tunisia.
+The Finance Project explores the data to find out the loan situation of countries, but most focused on Tunisia.
 I develop the project to answer questions like:
 
 1. Show all transactions from the country Tunisia, and the status of their loans.
