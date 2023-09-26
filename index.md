@@ -2,9 +2,9 @@
 ---
 ### Data Projects
 
-#### [SQL Exploratory DATA Analyses in Healthcare]([https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
+#### [SQL Exploratory DATA Analyses in Healthcare](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
 
-
+<img src="images/giphy.gif?raw=true"/>(https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
 
 #### [SQL Banking Project](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
 
