@@ -2,7 +2,7 @@
 ---
 ### Data Projects
 
-#### [The Healthcare Project (SQL)](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
+#### [The Healthcare Project (SQL)(https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
 
 In this case study I am using MySQL to explore 2 data datasets that represent data from over 130 hospitals. Among other insights, you will see that I was to query information like:
 
@@ -11,7 +11,7 @@ In this case study I am using MySQL to explore 2 data datasets that represent da
 2. What medical specialties are doing the most number of lab procedures on average? 
 
 
-<img src="images/giphy.gif?raw=true"/>(https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
+[<img src="images/giphy.gif?raw=true"/>](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
 
 ---
  
@@ -30,7 +30,7 @@ I develop the project to answer questions like:
    
 5. What was the most expensive project in Tunisia with the highest Original Principle Amount?
 
-<img src="images/The-World-Bank.jpg?raw=true"/>(https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
+[<img src="images/The-World-Bank.jpg?raw=true"/>](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
 
 ---
  
@@ -46,7 +46,7 @@ For this project, I play as a recently hired by the State of Massachusetts to an
 
 4. What schools are struggling the most?
 
-<img src="images/Students class GIF.gif?raw=true"/>(https://www.linkedin.com/pulse/does-class-size-matter-yohana-gambarini/)
+[<img src="images/Students class GIF.gif?raw=true"/>](https://www.linkedin.com/pulse/does-class-size-matter-yohana-gambarini/)
 
 ---
  
@@ -55,6 +55,6 @@ For this project, I play as a recently hired by the State of Massachusetts to an
 Overall, the company wants to improve its marketing & wants to see who has purchased following a marketing campaign. 
 I analyze 6 marketing campaigns to deliver insights for the bosses.
 
-<img src="images/1671479534257.gif?raw=true"/>(https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
+[<img src="images/1671479534257.gif?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
 ---
 
