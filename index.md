@@ -2,6 +2,12 @@
 ---
 ### Data Projects
 
+#### [SQL Exploratory DATA Analyses in Healthcare]([https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
+
+
+
+
+
 #### [SQL Banking Project](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
 
 <img src="images/The-World-Bank.jpg?raw=true"/>(https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
@@ -10,7 +16,7 @@
 
 <img src="images/Students class GIF.gif?raw=true"/>(https://www.linkedin.com/pulse/does-class-size-matter-yohana-gambarini/)
 
-For this project Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
+For this project, Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
 ---
  
 #### [Excel_project](https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
