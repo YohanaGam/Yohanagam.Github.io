@@ -19,7 +19,8 @@ For this project Tableau was used as tool to analyze education data from the Mas
 ---
  
 #### [Excel_project](https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
-<img src="images/1671479534257.gif?raw=true"/>
+
+<img src="images/1671479534257.gif?raw=true"/>(https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
 
 An analysis of 6 marketing campaigns from the DoorDash delivery company.
 ---
