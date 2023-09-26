@@ -2,7 +2,7 @@
 ---
 ### Data Projects
 
-#### [The Healthcare Project (SQL)(https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
+#### [The Healthcare Project (SQL)](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
 
 In this case study I am using MySQL to explore 2 data datasets that represent data from over 130 hospitals. Among other insights, you will see that I was to query information like:
 
