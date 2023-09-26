@@ -1,26 +1,34 @@
-# Welcome to My Portfolio
+# Welcome to My Data Portfolio 
 ---
 ### Data Projects
 
-#### [SQL Exploratory DATA Analyses in Healthcare](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
+#### [The Healthcare Project (SQL)](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
 
 <img src="images/giphy.gif?raw=true"/>(https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
 
-#### [SQL Banking Project](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
+#### [💵 The Finance Project (SQL)](https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
+
 
 <img src="images/The-World-Bank.jpg?raw=true"/>(https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/)
 ---
-#### [Increasing College attendance](https://www.linkedin.com/pulse/does-class-size-matter-yohana-gambarini/)
+#### [🏫 The Education Project (Data Visualization with Tableau)](https://www.linkedin.com/pulse/does-class-size-matter-yohana-gambarini/)
 
 <img src="images/Students class GIF.gif?raw=true"/>(https://www.linkedin.com/pulse/does-class-size-matter-yohana-gambarini/)
 
-For this project, Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
+For this project, I play as a recently hired by the State of Massachusetts to analyze their education data. The Department of Education Superintendent is looking for the following:
+
+1.A report to show the school board the state of the school system 
+2.How does class size affect college admission?
+3.What are the top math schools in the state?
+4.What schools are struggling the most?
+
 ---
  
-#### [Excel_project](https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
+#### [🍔 The DoorDash Project (Data Analysis w/ Excel)](https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
+
+Overall, the company wants to improve its marketing & wants to see who has purchased following a marketing campaign. 
+I analyze 6 marketing campaigns to deliver insights for the bosses.
 
 <img src="images/1671479534257.gif?raw=true"/>(https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
-
-An analysis of 6 marketing campaigns from the DoorDash delivery company.
 ---
 
