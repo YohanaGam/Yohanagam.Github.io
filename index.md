@@ -18,7 +18,7 @@ https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/
 For this project Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
 ---
  
-#### [Excel_project](Excel_Project.md)(https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
+#### [Excel_project](https://www.linkedin.com/pulse/doordash-marketing-analyses-case-suspicious-customer-yohana-gambarini/)
 <img src="images/1671479534257.gif?raw=true"/>
 
 An analysis of 6 marketing campaigns from the DoorDash delivery company.
