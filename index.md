@@ -4,7 +4,7 @@
 ---
 #### [SQL Financial Project](SQL.md)
 Tunisia needs more money.
-<img src="images/Students class GIF.gif?raw=true"/>
+<img src="images/The-World-Bank.jpg?raw=true"/>
 
 In this project Tableau was used as tool to analyze education data from the Massachusetts Department of Education. 
 https://www.linkedin.com/pulse/tunisia-needs-more-money-yohana-gambarini/
