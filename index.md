@@ -9,7 +9,7 @@ For this project, I am using Power BI to explore 1 dataset that represents data 
 The CSV file revolves around a fictitious company and the core data set contains names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether they are active or terminated, position title, pay rate, manager name, performance score, Absences, and Performance Review.
 
 
-[<img src="images/giphy.gif?raw=true"/>](https://www.linkedin.com/pulse/sql-exploratory-data-analyses-healthcare-yohana-gambarini/)
+[<img src=Initial.svg
 
 
 
