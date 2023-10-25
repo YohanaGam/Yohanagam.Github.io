@@ -8,7 +8,7 @@ I delved into data to reveal the untold stories, celebrating the NBA's magic. Fr
 Get ready for a statistical adventure in the thrilling world of professional basketball.
 
 
-[<img src="images/Blue and Red 60x36 Landscape Cam?raw=true"/>](https://public.tableau.com/shared/6S8CMD7GH?:display_count=n&:origin=viz_share_link)
+[<img src="images/Blue and Red 60x36 Landscape Campaign Banner.png?raw=true"/>](https://public.tableau.com/shared/6S8CMD7GH?:display_count=n&:origin=viz_share_link)
 
 
 
