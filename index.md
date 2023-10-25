@@ -2,6 +2,11 @@
 ---
 ### Data Projects
 
+#### [Basktball NBA 2022-2023 Season Project (Tableau)](https://www.linkedin.com/pulse/unlocking-game-statistical-journey-through-2022-23-nba-gambarini-z25fc)
+
+I delved into data to reveal the untold stories, celebrating the NBA's magic. From amazing three-pointers to awe-inspiring assists, join me as I spotlight hidden gems, standout plays, and unforgettable moments. 
+Get ready for a statistical adventure in the thrilling world of professional basketball.
+
 
 
 #### [People Analytics Project (Power BI)](https://www.linkedin.com/pulse/people-analytics-yohana-gambarini%3FtrackingId=K8PE%252FlL3SKqHSF30vy8kYw%253D%253D/?trackingId=K8PE%2FlL3SKqHSF30vy8kYw%3D%3D)
