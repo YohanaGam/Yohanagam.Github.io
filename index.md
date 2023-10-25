@@ -8,6 +8,9 @@ I delved into data to reveal the untold stories, celebrating the NBA's magic. Fr
 Get ready for a statistical adventure in the thrilling world of professional basketball.
 
 
+[<img src="images/Blue and Red 60x36 Landscape Cam?raw=true"/>](https://public.tableau.com/shared/6S8CMD7GH?:display_count=n&:origin=viz_share_link)
+
+
 
 #### [People Analytics Project (Power BI)](https://www.linkedin.com/pulse/people-analytics-yohana-gambarini%3FtrackingId=K8PE%252FlL3SKqHSF30vy8kYw%253D%253D/?trackingId=K8PE%2FlL3SKqHSF30vy8kYw%3D%3D)
 
